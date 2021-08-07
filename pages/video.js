@@ -1,6 +1,6 @@
 import { useContext, useEffect, useRef, useState } from 'react'
 import { useRouter } from 'next/router';
-import AppContext from '../store/AppContext';
+import AppContext from '../store/appContext';
 import YouTube from 'react-youtube';
 
 const Video = () => {

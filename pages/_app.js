@@ -1,6 +1,6 @@
 import BaseLayout from "../components/layouts/BaseLayout"
 import '../styles/globals.css'
-import AppContext from "../store/AppContext"
+import AppContext from "../store/appContext"
 import { useReducer } from 'react';
 import AppReducer from "../store/appReducer"
 import initialState from "../store/initialState"

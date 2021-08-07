@@ -1,7 +1,7 @@
 import { useContext, useState, useEffect } from 'react'
 import { useRouter } from 'next/router'
 import { VALID_YOUTUBE_URL } from '../util/regex';
-import AppContext from '../store/AppContext'
+import AppContext from '../store/appContext'
 import styles from '../styles/Home.module.css'
 
 const Home = () => {
