@@ -12,5 +12,5 @@ Follow below steps:
 4) Install dependencies. Execute 'npm install'
 5) Launch the application. Execute 'npm run dev'
 
-## How to run the application?
+## Can I run the application on a public URL?
 Navigate to https://youtube-app-chi.vercel.app/video
