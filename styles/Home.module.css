@@ -1,0 +1,14 @@
+.inputBox {
+    border: none;
+    border-bottom: 1px solid #313131;
+    width: 100%;
+    font-size: 32px;
+}
+
+.inputBox:placeholder-shown {
+    font-style: italic;
+ }
+
+.disableButtonStyle {
+    opacity: 0.3;
+}

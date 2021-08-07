@@ -1,0 +1,11 @@
+.header {
+    background: #0097D6;
+    background: -webkit-linear-gradient(to right, #0097D6, #0097D6);
+    background: linear-gradient(to right, #0097D6, #0097D6);
+    height: 64px;
+    color: #fff;
+    display: flex;
+    width: 100%;
+    position: fixed;
+    padding: 0 32px;
+}

@@ -1,0 +1,1 @@
+export const VALID_YOUTUBE_URL = /((http(s)?:\/\/)?)(www\.)?((youtube\.com\/)|(youtu.be\/))((watch\?v=))[\S]+/
